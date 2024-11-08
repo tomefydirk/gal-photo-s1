@@ -1,0 +1,11 @@
+.dialog img{
+    height: 80vh;
+}
+
+.clickable {
+    cursor: pointer;
+}
+.dialog{
+   border-radius: 20px;  
+   padding: 0px;
+}
